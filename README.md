@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **cutting-edge MERN Stack and Deep Learning projects**
 
-- 🌱 I’m continuously honing my skills in **React.js and Spring Boot**
+- 🌱 I’m continuously honing my skills in **React.js**
 
 - 💬 Ask me about **best practices in React.js development**
 
